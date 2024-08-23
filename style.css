@@ -83,7 +83,7 @@ figure#frontend {
     justify-content: space-evenly; 
     position: relative;
     border: #3882f6 4px solid;
-    border-radius: 5px;  
+    border-radius: 4px;  
 }
 .hero2 p{
     text-align: center;
